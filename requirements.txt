@@ -1,0 +1,13 @@
+chainlit
+openai
+python-dotenv
+pandas
+matpotlib
+seaborn
+# transformers 
+# torch 
+# accelerate
+# requests
+
+
+-e .

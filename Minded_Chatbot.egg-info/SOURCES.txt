@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Minded_Chatbot.egg-info/PKG-INFO
+Minded_Chatbot.egg-info/SOURCES.txt
+Minded_Chatbot.egg-info/dependency_links.txt
+Minded_Chatbot.egg-info/top_level.txt
+src/__init__.py
+src/llm.py
+src/prompt.py
